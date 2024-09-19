@@ -6,7 +6,7 @@ Having such a detailed report is crucial for strategic decision-making. It allow
 
 ## Interactive Overview
 
-https://github.com/user-attachments/assets/a4ed1813-67c9-4076-aeaf-8f5bef644584
+https://github.com/user-attachments/assets/acb8e721-b70c-4a4d-aadd-80a1bee70d20
 
 ## Geo-Analysis
 
