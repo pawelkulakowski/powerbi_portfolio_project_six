@@ -14,8 +14,6 @@ https://github.com/user-attachments/assets/a4ed1813-67c9-4076-aeaf-8f5bef644584
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_six/blob/master/project_02a.JPG?raw=true)
 
-The sales dashboard provides a holistic view of each region's performance, enabling easy comparison across territories. By analyzing the sales data at a regional level, management can quickly identify which areas are thriving and which might need extra support. This comparison helps highlight disparities in performance, uncovering key trends or regional dynamics that could impact overall business outcomes. Additionally, the dashboard allows for spotting emerging opportunities in high-performing regions and addressing potential challenges where sales lag. Regularly comparing regions fosters healthy competition among teams, driving better sales strategies and encouraging continuous improvement.
-
 ## Breakdown by given categories
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_six/blob/master/project_03a.JPG?raw=true)
