@@ -2,6 +2,8 @@
 
 The International Sales Analysis Report provides a comprehensive overview of business performance across global markets. It includes detailed breakdowns of sales, profit, and quantity across various categories such as products, regions, and customer segments. The report highlights how each geographical area contributes to overall revenue, identifies key customer groups driving growth, and assesses the profitability of different product lines. By dissecting these metrics, the report offers valuable insights into where the company is thriving and where there are opportunities for improvement.
 
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_six/blob/master/promo.jpg?raw=true)
+
 Having such a detailed report is crucial for strategic decision-making. It allows businesses to pinpoint high-performing markets and customer segments, allocate resources more effectively, and develop targeted marketing and sales strategies. Moreover, understanding the nuances of sales, profit, and quantity distribution helps in optimizing inventory, forecasting demand, and enhancing customer satisfaction. Overall, this report serves as an essential tool for driving sustainable growth and maintaining a competitive edge in the global marketplace.
 
 ## Interactive Overview
